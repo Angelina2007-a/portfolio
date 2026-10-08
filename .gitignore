@@ -1,0 +1,13 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large media files (e.g. raw screen recordings)
+*.mp4
+*.mov
+
+# Log & temp files
+*.log
+node_modules/
